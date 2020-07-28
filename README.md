@@ -1,2 +1,4 @@
 # book-notes
-Brief notes from books I've read
+Brief notes from books I've read and masterclasses
+
+

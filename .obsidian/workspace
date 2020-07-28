@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "f1d2bfc2194fd663",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9787a00bae102f3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Television Writing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f0d5730ee171150",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a11176d3e4bbe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549c9c21f117a432",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65b1d5d9ef6f3813",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abb35f0b407025f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "815f1cb20e622fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a72d8310b96aca0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md"
+  ]
+}
